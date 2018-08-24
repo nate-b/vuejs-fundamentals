@@ -1,5 +1,7 @@
 # build-a-bot
 
+Following the [Vue.js Fundamentals course](https://app.pluralsight.com/library/courses/vuejs-fundamentals/table-of-contents) by Jim Cooper
+
 ## Project setup
 ```
 npm install
